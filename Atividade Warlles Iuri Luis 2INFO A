@@ -1,0 +1,95 @@
+1-
+C recebe A + B → C = 1 + 1 → C = 2
+A recebe B → A = 1
+B recebe C → B = 2
+I recebe I + 1 → I = 1 → I = 2
+
+2-
+C recebe A + B → C = 1 + 2 → C = 3
+A recebe B → A = 2
+B recebe C → B = 3
+I recebe I + 1 → I = 2 + 1 → I = 3
+
+3-
+C recebe A + B → C = 2 + 3 → C = 5
+A recebe B → A = 3
+B recebe C → B = 5
+I recebe I + 1 → I = 3 + 1 → I = 4
+
+4-
+C recebe A + B → C = 3 + 5 → C = 8
+A recebe B → A = 5
+B recebe C → B = 8
+I recebe I + 1 → I = 4 + 1 → I = 5
+
+5-
+C recebe A + B → C = 5 + 8 → C = 13
+A recebe B → A = 8
+B recebe C → B = 13
+I recebe I + 1 → I = 5 + 1 → I = 6
+
+6-
+C recebe A + B → C = 8 + 13 → C = 21
+A recebe B → A = 13
+B recebe C → B = 21
+I recebe I + 1 → I = 6 + 1 → I = 7
+
+7-
+C recebe A + B → C = 13 + 21 → C = 34
+A recebe B → A = 21
+B recebe C → B = 34
+I recebe I + 1 → I = 7 + 1 → I = 8
+
+8-
+C recebe A + B → C = 21 + 34 → C = 55
+A recebe B → A = 34
+B recebe C → B = 55
+I recebe I + 1 → I = 8 + 1 → I = 9
+
+9-
+C recebe A + B → C = 34 + 55 → C = 89
+A recebe B → A = 55
+B recebe C → B = 89
+I recebe I + 1 → I = 9 + 1 → I = 10
+
+10-
+C recebe A + B → C = 55 + 89 → C = 144
+A recebe B → A = 89
+B recebe C → B = 144
+I recebe I + 1 → I = 10 + 1 → I = 11
+
+11-
+C recebe A + B → C = 89 + 144 → C = 233
+A recebe B → A = 144
+B recebe C → B = 233
+I recebe I + 1 → I = 11 + 1 → I = 12
+
+12-
+C recebe A + B → C = 144 + 233 → C = 377
+A recebe B → A = 233
+B recebe C → B = 377
+I recebe I + 1 → I = 12 + 1 → I = 13
+
+13-
+C recebe A + B → C = 233 + 377 → C = 610
+A recebe B → A = 377
+B recebe C → B = 610
+I recebe I + 1 → I = 13 + 1 → I = 14
+
+14-
+C recebe A + B → C = 377 + 610 → C = 987
+A recebe B → A = 610
+B recebe C → B = 987
+I recebe I + 1 → I = 14 + 1 → I = 15
+
+15-
+C recebe A + B → C = 610 + 987 → C = 1597
+A recebe B → A = 987
+B recebe C → B = 1597
+I recebe I + 1 → I = 15 + 1 → I = 16
+
+16-
+C recebe A + B → C = 987 + 1597 → C = 2584
+A recebe B → A = 1597
+B recebe C → B = 2584
+I recebe I + 1 → I = 16 + 1 → I = 17
